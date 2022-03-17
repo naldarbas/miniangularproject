@@ -1,2 +1,2 @@
 # miniangularproject
-#practice about router/services/directive .
+#practice about router , services and directive .
