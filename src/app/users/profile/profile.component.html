@@ -1,0 +1,11 @@
+<div class="row">
+    <div class="col-xs-12 col-md-8 col-md-offset-2"  *ngIf="users">
+      <br>
+      <p> Profile .. </p>
+      <h5 > The Username is : {{ users.name}}</h5>
+      <p>The State for this account is  : {{ users.status }}</p>
+      <img src={{users.image}} width="200" height="250">
+      <hr>
+    </div>
+   
+  </div>
